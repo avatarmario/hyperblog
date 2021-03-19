@@ -7,6 +7,11 @@ Un blog cool para el curso Git &amp; Github de Platzi!
 
 ##En este curso vemos DE TODO
 * CREADO POR EL MAS BERGAS( O SEA SE YO)
+<<<<<<< HEAD
+=======
+* No incluye ejemplos
+* Disponible para todas las edades
+>>>>>>> readme-mejorado
 
 * Qué es Git &amp; Github, y para qué es su uso. 
 * Cómo usar git &amp; Github
