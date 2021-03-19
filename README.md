@@ -5,9 +5,8 @@ Un blog cool para el curso Git &amp; Github de Platzi!
 
 >Al momento en que esto está siendo escrito, voy en la clase de Readme.md, y nada, esto mejorando visualmente mi archivo Readme.md usando Editor.md. Un editor open source de Markdown, referido por el mismísimo Freddier. 
 
-##En este curso vemos
-
->DE TODO
+##En este curso vemos DE TODO
+*CREADO POR EL MAS BERGAS( O SEA SE YO)
 
 * Qué es Git &amp; Github, y para qué es su uso. 
 * Cómo usar git &amp; Github
